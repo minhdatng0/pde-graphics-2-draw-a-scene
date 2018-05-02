@@ -8,7 +8,7 @@
  */
 
 void setup() {
-  size(700, 500); // Size of canvas
+  size(600, 900); // Size of canvas
   background(142,21,108);
 }
 void draw() {
