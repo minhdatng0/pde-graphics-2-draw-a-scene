@@ -9,6 +9,8 @@
 
 void setup() {
   size(700, 500); // Size of canvas
-  background(255);
+  background(142,21,108);
 }
-void draw() {}
+void draw() {
+
+}
