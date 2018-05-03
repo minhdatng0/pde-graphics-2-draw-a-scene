@@ -50,6 +50,11 @@ void draw() {
    ellipse(245,80,30,40);
    ellipse(325,80,30,40);
    
+   //mouth
+   
+   strokeWeight(10);
+   line(270,170,330,170);
+   
    
    
    
