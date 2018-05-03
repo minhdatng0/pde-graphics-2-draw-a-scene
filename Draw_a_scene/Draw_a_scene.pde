@@ -45,4 +45,16 @@ void draw() {
    rect(220,680,80,260);
    rect(380,680,80,260);
    
+   //eyes
+   ellipseMode(CORNER);
+   ellipse(245,80,30,40);
+   ellipse(325,80,30,40);
+   
+   
+   
+   
+   
+   
+   
+   
 }
