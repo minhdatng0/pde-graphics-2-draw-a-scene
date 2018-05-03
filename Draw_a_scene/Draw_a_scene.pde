@@ -13,11 +13,18 @@ void setup() {
 }
 void draw() {
     rectMode(CENTER);
+   //Head
    rect(300,125,150,150);
    
+   
+   //Neck
    rect(300,235,50,70);
    
+   //Body
    rect(300,410,280,280);
    
+   //Arms
+   rect();
+   rect();
    
 }
