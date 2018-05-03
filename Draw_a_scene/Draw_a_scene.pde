@@ -14,4 +14,7 @@ void setup() {
 void draw() {
     rectMode(CENTER);
    rect(300,125,150,150);
+   
+   rect(300,235,50,70);
+   
 }
