@@ -35,6 +35,8 @@ void draw() {
    rect(125,295,70,50);
    rect(475,295,70,50);
    //Arms
-   
+   rectMode(CORNER);
+   rect(475,320,60,180);
+   rect(65,320,60,180);
    
 }
