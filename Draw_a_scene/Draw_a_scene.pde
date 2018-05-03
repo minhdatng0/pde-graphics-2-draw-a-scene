@@ -31,9 +31,10 @@ void draw() {
    
    // y end at 550
    
-   //Arms
-   
+   //Shoulders
    rect(125,295,70,50);
    rect(475,295,70,50);
+   //Arms
+   
    
 }
