@@ -8,7 +8,7 @@
  */
 
 void setup() {
-  size(600, 900); // Size of canvas
+  size(600, 1000); // Size of canvas
   background(142,21,108);
 }
 void draw() {
@@ -33,7 +33,7 @@ void draw() {
    
    //Arms
    
-   rect();
-   rect();
+   rect(0,0,0,0);
+   rect(0,0,0,0);
    
 }
