@@ -33,22 +33,23 @@ void draw() {
    // y end at 550
    
    //Shoulders
+   fill(130,57,49);
    rect(125,295,70,50);
    rect(475,295,70,50);
    //Arms
-   rectMode(CORNER);
+    rectMode(CORNER);
    rect(475,320,60,180);
    rect(65,320,60,180);
    
    //legs
    
-   rectMode(CENTER);
+    rectMode(CENTER);
    rect(220,680,80,260);
    rect(380,680,80,260);
    
    //eyes
-   ellipseMode(CORNER);
-   fill(178,174,169);
+    ellipseMode(CORNER);
+     fill(178,174,169);
    ellipse(245,80,30,40);
    ellipse(325,80,30,40);
    
@@ -59,8 +60,8 @@ void draw() {
    
    //fingers
    //left hand
-   strokeWeight(4);
-   stroke(0);
+      strokeWeight(4);
+      stroke(0);
    line(65,500,65,520);
    line(95,500,95,520);
    line(125,500,125,520);
