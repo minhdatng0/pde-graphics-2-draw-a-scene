@@ -14,6 +14,7 @@ void setup() {
 void draw() {
     rectMode(CENTER);
    //Head
+   
    fill(178,118,49);
    rect(300,125,150,150);
    // y end at 200
@@ -47,6 +48,7 @@ void draw() {
    
    //eyes
    ellipseMode(CORNER);
+   fill(178,174,169);
    ellipse(245,80,30,40);
    ellipse(325,80,30,40);
    
