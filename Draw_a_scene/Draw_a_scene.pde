@@ -58,11 +58,13 @@ void draw() {
    //fingers
    //left hand
    strokeWeight(4);
+   stroke(0);
    line(65,500,65,520);
    line(95,500,95,520);
    line(125,500,125,520);
    
    //right hand
+   
    line(475,500,475,520);
    line(505,500,505,520);
    line(535,500,535,520);
