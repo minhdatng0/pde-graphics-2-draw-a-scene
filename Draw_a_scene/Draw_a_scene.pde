@@ -73,8 +73,8 @@ void draw() {
    line(535,500,535,520);
    
    //text
-   
-   text("i am robot",400,220,500,50);
+   textSize(32);
+   text("i am robot",1050,200,1300,50);
    
    
    
