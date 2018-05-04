@@ -14,7 +14,7 @@ void setup() {
 void draw() {
     rectMode(CENTER);
    //Head
-   
+   fill(178,118,49);
    rect(300,125,150,150);
    // y end at 200
    
