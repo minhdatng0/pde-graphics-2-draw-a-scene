@@ -55,7 +55,12 @@ void draw() {
    strokeWeight(10);
    line(270,170,330,170);
    
+   //fingers
    
+   strokeWeight(4);
+   line(65,500,65,520);
+   line(95,500,95,520);
+   line(125,500,125,520);
    
    
    
