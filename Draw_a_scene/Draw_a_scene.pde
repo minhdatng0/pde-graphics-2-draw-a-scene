@@ -33,7 +33,7 @@ void draw() {
    // y end at 550
    
    //Shoulders
-   fill(130,57,49);
+     fill(130,57,49);
    rect(125,295,70,50);
    rect(475,295,70,50);
    //Arms
@@ -42,7 +42,7 @@ void draw() {
    rect(65,320,60,180);
    
    //legs
-   
+     fill(113,49,130);
     rectMode(CENTER);
    rect(220,680,80,260);
    rect(380,680,80,260);
