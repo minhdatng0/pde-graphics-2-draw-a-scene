@@ -21,7 +21,7 @@ void draw() {
    
    
    //Neck
-   
+   fill(99,98,98);
    rect(300,235,50,70);
    
    //y end at 270
