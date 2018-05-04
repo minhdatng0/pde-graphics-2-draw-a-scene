@@ -15,19 +15,19 @@ void draw() {
     rectMode(CENTER);
    //Head
    
-   fill(178,118,49);
+     fill(178,118,49);
    rect(300,125,150,150);
    // y end at 200
    
    
    //Neck
-   fill(99,98,98);
+     fill(99,98,98);
    rect(300,235,50,70);
    
    //y end at 270
    
    //Body
-   
+    fill(47,74,104);
    rect(300,410,280,280);
    
    // y end at 550
